@@ -62,15 +62,84 @@ If you use the Skeleton850 dataset in your research, please cite the following p
 }
 ```
 
-📄 **Paper Link:** [Your Paper Title](https://doi.org/your-doi-link-here)
+**Paper Link:** [Your Paper Title](https://doi.org/your-doi-link-here)
 
-> **Note:** Please replace the citation information and paper link above with your actual publication details.
+## 5. Source Datasets
 
-## 5. Contact
+The Skeleton850 dataset is derived from the following public pavement crack datasets through modification and re-annotation. Please also cite the corresponding papers when using these source datasets:
 
-If you have any questions about the dataset, feel free to contact:
+### CRACK500
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+```bibtex
+@inproceedings{zhang2016road,
+  title={Road crack detection using deep convolutional neural network},
+  author={Zhang, Lei and Yang, Fan and Zhang, Yimin Daniel and Zhu, Ying Julie},
+  booktitle={Image Processing (ICIP), 2016 IEEE International Conference on},
+  pages={3708--3712},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{yang2019feature,
+  title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
+  author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2019},
+  publisher={IEEE}
+}
+```
+
+### GAPs384
+
+```bibtex
+@article{yang2019feature,
+  title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
+  author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{eisenbach2017how,
+  title={How to Get Pavement Distress Detection Ready for Deep Learning? A Systematic Approach.},
+  author={Eisenbach, Markus and Stricker, Ronny and Seichter, Daniel and Amende, Karl and Debes, Klaus
+          and Sesselmann, Maximilian and Ebersbach, Dirk and Stoeckert, Ulrike
+          and Gross, Horst-Michael},
+  booktitle={International Joint Conference on Neural Networks (IJCNN)},
+  pages={2039--2047},
+  year={2017}
+}
+```
+
+### CFD
+
+```bibtex
+@article{shi2016automatic,
+  title={Automatic road crack detection using random structured forests},
+  author={Shi, Yong and Cui, Limeng and Qi, Zhiquan and Meng, Fan and Chen, Zhensong},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={17},
+  number={12},
+  pages={3434--3445},
+  year={2016},
+  publisher={IEEE}
+}
+```
+
+### cracktree200
+
+```bibtex
+@article{zou2012cracktree,
+  title={CrackTree: Automatic crack detection from pavement images},
+  author={Zou, Qin and Cao, Yu and Li, Qingquan and Mao, Qingzhou and Wang, Song},
+  journal={Pattern Recognition Letters},
+  volume={33},
+  number={3},
+  pages={227--238},
+  year={2012},
+  publisher={Elsevier}
+}
+```
 
 ## 6. History
 
