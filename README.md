@@ -39,11 +39,7 @@ Skeleton850/
 |:---:|:---:|
 | ![original](original_mask/00001.png) | ![skeleton](skeletonized_mask/00001.png) |
 
-## 3. License
-
-This dataset is made available for **non-commercial research purposes only**.
-
-## 4. Citation
+## 3. Citation
 
 If you use the Skeleton850 dataset in your research, please cite the following paper:
 
@@ -64,7 +60,7 @@ If you use the Skeleton850 dataset in your research, please cite the following p
 
 **Paper Link:** [Your Paper Title](https://doi.org/your-doi-link-here)
 
-## 5. Source Datasets
+## 4. Source Datasets
 
 The Skeleton850 dataset is derived from the following public pavement crack datasets through modification and re-annotation. Please also cite the corresponding papers when using these source datasets:
 
@@ -141,6 +137,6 @@ The Skeleton850 dataset is derived from the following public pavement crack data
 }
 ```
 
-## 6. History
+## 5. History
 
 - **Version 1.0** (2026/02) — Initial release
