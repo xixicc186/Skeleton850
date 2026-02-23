@@ -44,21 +44,21 @@ Skeleton850/
 If you use the Skeleton850 dataset in your research, please cite the following paper:
 
 ```bibtex
-@article{your_paper,
-  title={Your Paper Title},
-  author={Your Name and Co-Authors},
-  journal={Journal/Conference Name},
-  volume={},
-  number={},
-  pages={},
+@article{cai2026end,
+  title={An end-to-end automated framework for pavement crack detection and dimensional quantification using foundation models and learned skeletonization},
+  author={Cai, Chang and Deng, Yong and Zhou, Zhiliang and Zhang, Yuan and Yu, Jiangmiao},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={171},
+  pages={114239},
   year={2026},
-  publisher={Publisher},
-  doi={},
-  url={Your Paper Link Here}
+  publisher={Elsevier},
+  doi={10.1016/j.engappai.2026.114239}
 }
 ```
 
-**Paper Link:** [Your Paper Title](https://doi.org/your-doi-link-here)
+Chang Cai, Yong Deng, Zhiliang Zhou, Yuan Zhang, Jiangmiao Yu., 2026. *An end-to-end automated framework for pavement crack detection and dimensional quantification using foundation models and learned skeletonization*. Engineering Applications of Artificial Intelligence, 171, 114239.
+
+**Paper Link:** [An end-to-end automated framework for pavement crack detection and dimensional quantification using foundation models and learned skeletonization](https://doi.org/10.1016/j.engappai.2026.114239)
 
 ## 4. Source Datasets
 
