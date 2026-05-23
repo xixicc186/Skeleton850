@@ -62,7 +62,7 @@ Chang Cai, Yong Deng, Zhiliang Zhou, Yuan Zhang, Jiangmiao Yu., 2026. *An end-to
 
 ## 4. Source Datasets
 
-The Skeleton850 dataset is derived from the following public pavement crack datasets through modification and re-annotation. Please also cite the corresponding papers when using these source datasets:
+The Skeleton850 dataset — including the mask annotations and the raw crack images provided in `train&test_img.zip` — is derived from the following public pavement crack datasets through selection, modification, and re-annotation. Please also cite the corresponding papers when using any part of this dataset:
 
 ### CRACK500
 
